@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/detail/main",
+    "pages/takephoto/main",
+    "pages/choosephoto/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "排卵试纸",
+    "navigationBarTextStyle": "black"
+  }
+}
