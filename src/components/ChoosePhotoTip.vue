@@ -1,8 +1,8 @@
 <template>
   <cover-view class="container">
     <cover-view class="top-tip">请对齐虚线</cover-view>
-    <cover-image class="tip-img" src="../../assets/images/photo-tip-img.png"></cover-image>
-    <cover-view class="croper-cover">试纸宽度</cover-view>
+    <!-- <cover-image class="tip-img" src="/static/images/photo-tip-img.png"></cover-image> -->
+    <cover-view class="croper-cover">试纸宽度 </cover-view>
   </cover-view>
 </template>
 
@@ -27,11 +27,12 @@
   }
   .croper-cover{
     width: 100%;
-    background: rgba(237, 124, 135, .5);
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid #ff7587;
     height: 50rpx;
     line-height: 50rpx;
     text-align: right;
-    color: #ddd;
+    color: #ff7587;
     position: absolute;
     top: 190rpx;
     box-sizing: border-box;

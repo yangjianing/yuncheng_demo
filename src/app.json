@@ -1,8 +1,7 @@
 {
-  "pages": [
-    "pages/index/main",
-    "pages/detail/main",
+  "pages": ["pages/index/main",
     "pages/takephoto/main",
+    "pages/detail/main",
     "pages/choosephoto/main"
   ],
   "window": {

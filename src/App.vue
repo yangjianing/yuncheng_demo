@@ -13,5 +13,9 @@ export default {
 </script>
 
 <style>
-@import url('static/animate.min.css');
+@import url('./utils/icons/iconfont.css');
+
+body{
+  color: #444;
+}
 </style>
