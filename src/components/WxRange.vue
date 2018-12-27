@@ -126,7 +126,7 @@ export default {
     position: absolute;
     bottom: 0;
     left: 0;
-    background: url('/static/images/photo-tip-img.png') no-repeat;
+    // background: url('/static/images/photo-tip-img.png') no-repeat;
   }
 }
 .bottom-tip{
